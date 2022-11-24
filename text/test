@@ -1,0 +1,1 @@
+Rust currently has an attribute usage lint but it does not work particularly well. This RFC proposes a new implementation strategy that should make it significantly more useful.
